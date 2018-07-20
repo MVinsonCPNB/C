@@ -1,6 +1,6 @@
 #README.txt
 
-# This repositiory is a collection of various c/c++ programs written on a linux system. 
+# This repositiory is a collection of various c/c++ programs written on a linux/Windows systems.
 
 # Most of the code is simply copied from tutorials or books found on the web.
 
