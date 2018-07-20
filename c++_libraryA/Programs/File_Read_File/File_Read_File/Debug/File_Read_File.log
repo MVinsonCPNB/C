@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  File_Read_File.cpp
+c:\users\mvins\documents\resume\computer programs referenced in the resume\c\cop1220\programs\file_read_file\file_read_file\file_read_file.cpp(15): error C3861: 'gets': identifier not found
+c:\users\mvins\documents\resume\computer programs referenced in the resume\c\cop1220\programs\file_read_file\file_read_file\file_read_file.cpp(17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: see declaration of 'fopen'

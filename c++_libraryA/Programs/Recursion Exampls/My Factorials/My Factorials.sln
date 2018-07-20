@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "My Factorials", "My Factorials\My Factorials.vcproj", "{3C2CEE2B-4258-4A25-9FE9-04A2E4D8BE60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C2CEE2B-4258-4A25-9FE9-04A2E4D8BE60}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3C2CEE2B-4258-4A25-9FE9-04A2E4D8BE60}.Debug|Win32.Build.0 = Debug|Win32
+		{3C2CEE2B-4258-4A25-9FE9-04A2E4D8BE60}.Release|Win32.ActiveCfg = Release|Win32
+		{3C2CEE2B-4258-4A25-9FE9-04A2E4D8BE60}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

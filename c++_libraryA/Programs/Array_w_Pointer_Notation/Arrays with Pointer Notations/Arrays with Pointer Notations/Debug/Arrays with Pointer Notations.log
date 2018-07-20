@@ -1,0 +1,12 @@
+﻿Build started 5/18/2016 1:58:06 PM.
+     1>Project "G:\Document Merge Folder\Documents\Old_School_Work_2010\COP1220\Programs\Array_w_Pointer_Notation\Arrays with Pointer Notations\Arrays with Pointer Notations\Arrays with Pointer Notations.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Arrays with Pointer Notations.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Arrays with Pointer Notations.cpp"
+         Arrays with Pointer Notations.cpp
+     1>g:\document merge folder\documents\old_school_work_2010\cop1220\programs\array_w_pointer_notation\arrays with pointer notations\arrays with pointer notations\arrays with pointer notations.cpp(23): error C2059: syntax error: '('
+     1>g:\document merge folder\documents\old_school_work_2010\cop1220\programs\array_w_pointer_notation\arrays with pointer notations\arrays with pointer notations\arrays with pointer notations.cpp(24): error C2228: left of '.printf' must have class/struct/union
+     1>Done Building Project "G:\Document Merge Folder\Documents\Old_School_Work_2010\COP1220\Programs\Array_w_Pointer_Notation\Arrays with Pointer Notations\Arrays with Pointer Notations\Arrays with Pointer Notations.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.63

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Loop_Control_with_Scanf">
+</Property><Property Name="Solution File" Value="C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\LoopControlwithScanf\Loop_Control_with_Scanf\Loop_Control_with_Scanf.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\LoopControlwithScanf\Loop_Control_with_Scanf\Loop_Control_with_Scanf.suo">
+</Property><Property Name="Date" Value="Thursday, March 07, 2013">
+</Property><Property Name="Time" Value="20:39 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Loop_Control_with_Scanf.sln" Description="File successfully backed up as C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\LoopControlwithScanf\Loop_Control_with_Scanf\Loop_Control_with_Scanf.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Loop_Control_with_Scanf.suo" Description="File successfully backed up as C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\LoopControlwithScanf\Loop_Control_with_Scanf\Loop_Control_with_Scanf.suo.old">
+</Event><Event ErrorLevel="0" Project="Loop_Control_with_Scanf" Source="Loop_Control_with_Scanf\Loop_Control_with_Scanf.vcproj" Description="Converting project file 'C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\LoopControlwithScanf\Loop_Control_with_Scanf\Loop_Control_with_Scanf\Loop_Control_with_Scanf.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Loop_Control_with_Scanf" Source="Loop_Control_with_Scanf\Loop_Control_with_Scanf.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Loop_Control_with_Scanf" Source="Loop_Control_with_Scanf\Loop_Control_with_Scanf.vcproj" Description="Done converting to new project file 'C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\LoopControlwithScanf\Loop_Control_with_Scanf\Loop_Control_with_Scanf\Loop_Control_with_Scanf.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Loop_Control_with_Scanf" Source="Loop_Control_with_Scanf\Loop_Control_with_Scanf.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Loop_Control_with_Scanf.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Loop_Control_with_Scanf.sln" Description="Converted">
+</Event></UpgradeLog>

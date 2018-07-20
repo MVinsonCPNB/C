@@ -1,0 +1,22 @@
+﻿Build started 5/18/2016 2:04:30 PM.
+     1>Project "G:\Document Merge Folder\Documents\Old_School_Work_2010\COP1220\Programs\KiloWatt_Hour_Billing_Program\If_Statment_Logarithim\If_Statment_Logarithim\If_Statment_Logarithim.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\If_Statment_Logarithim.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\If_Statment_Logarithim.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt If_Statment_Logarithim.cpp
+         If_Statment_Logarithim.cpp
+     1>g:\document merge folder\documents\old_school_work_2010\cop1220\programs\kilowatt_hour_billing_program\if_statment_logarithim\if_statment_logarithim\if_statment_logarithim.cpp(17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>g:\document merge folder\documents\old_school_work_2010\cop1220\programs\kilowatt_hour_billing_program\if_statment_logarithim\if_statment_logarithim\if_statment_logarithim.cpp(20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>g:\document merge folder\documents\old_school_work_2010\cop1220\programs\kilowatt_hour_billing_program\if_statment_logarithim\if_statment_logarithim\if_statment_logarithim.cpp(23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+     1>g:\document merge folder\documents\old_school_work_2010\cop1220\programs\kilowatt_hour_billing_program\if_statment_logarithim\if_statment_logarithim\if_statment_logarithim.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Document Merge Folder\Documents\Old_School_Work_2010\COP1220\Programs\KiloWatt_Hour_Billing_Program\If_Statment_Logarithim\Debug\If_Statment_Logarithim.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"G:\Document Merge Folder\Documents\Old_School_Work_2010\COP1220\Programs\KiloWatt_Hour_Billing_Program\If_Statment_Logarithim\Debug\If_Statment_Logarithim.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Document Merge Folder\Documents\Old_School_Work_2010\COP1220\Programs\KiloWatt_Hour_Billing_Program\If_Statment_Logarithim\Debug\If_Statment_Logarithim.lib" /MACHINE:X86 /SAFESEH Debug\If_Statment_Logarithim.obj
+         Debug\stdafx.obj
+     1>If_Statment_Logarithim.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     1>LINK : fatal error LNK1207: incompatible PDB format in 'G:\Document Merge Folder\Documents\Old_School_Work_2010\COP1220\Programs\KiloWatt_Hour_Billing_Program\If_Statment_Logarithim\Debug\If_Statment_Logarithim.pdb'; delete and rebuild
+     1>Done Building Project "G:\Document Merge Folder\Documents\Old_School_Work_2010\COP1220\Programs\KiloWatt_Hour_Billing_Program\If_Statment_Logarithim\If_Statment_Logarithim\If_Statment_Logarithim.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.35

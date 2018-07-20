@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Zone_Calculator">
+</Property><Property Name="Solution File" Value="C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\Switch_Case_Exam\Zone_Calculator\Zone_Calculator.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\Switch_Case_Exam\Zone_Calculator\Zone_Calculator.suo">
+</Property><Property Name="Date" Value="Thursday, March 07, 2013">
+</Property><Property Name="Time" Value="19:45 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Zone_Calculator.sln" Description="File successfully backed up as C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\Switch_Case_Exam\Zone_Calculator\Zone_Calculator.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Zone_Calculator.suo" Description="File successfully backed up as C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\Switch_Case_Exam\Zone_Calculator\Zone_Calculator.suo.old">
+</Event><Event ErrorLevel="0" Project="Zone_Calculator" Source="Zone_Calculator\Zone_Calculator.vcproj" Description="Converting project file 'C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\Switch_Case_Exam\Zone_Calculator\Zone_Calculator\Zone_Calculator.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Zone_Calculator" Source="Zone_Calculator\Zone_Calculator.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Zone_Calculator" Source="Zone_Calculator\Zone_Calculator.vcproj" Description="Done converting to new project file 'C:\Users\Mike\Documents\Documents\Old_School_Work_2010\COP1220\Programs\Switch_Case_Exam\Zone_Calculator\Zone_Calculator\Zone_Calculator.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Zone_Calculator" Source="Zone_Calculator\Zone_Calculator.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Zone_Calculator.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Zone_Calculator.sln" Description="Converted">
+</Event></UpgradeLog>

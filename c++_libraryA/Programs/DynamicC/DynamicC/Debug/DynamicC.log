@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  DynamicC.cpp
+c:\users\mvins\documents\resume\computer programs referenced in the resume\c\cop1220\programs\dynamicc\dynamicc\dynamicc.cpp(34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mvins\documents\resume\computer programs referenced in the resume\c\cop1220\programs\dynamicc\dynamicc\dynamicc.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\mvins\documents\resume\computer programs referenced in the resume\c\cop1220\programs\dynamicc\dynamicc\dynamicc.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: see declaration of 'scanf'
+DynamicC.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  DynamicC.vcxproj -> C:\Users\MVins\Documents\Resume\Computer Programs referenced in the Resume\C\COP1220\Programs\DynamicC\Debug\DynamicC.exe

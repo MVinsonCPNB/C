@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CharData2", "CharData2\CharData2.vbproj", "{F5B0D6F5-EAEE-47F3-85C8-B0F35CA526FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B0D6F5-EAEE-47F3-85C8-B0F35CA526FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B0D6F5-EAEE-47F3-85C8-B0F35CA526FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B0D6F5-EAEE-47F3-85C8-B0F35CA526FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B0D6F5-EAEE-47F3-85C8-B0F35CA526FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

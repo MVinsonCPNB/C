@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReviewPassbYRef", "ReviewPassbYRef\ReviewPassbYRef.vcproj", "{1875136F-0822-4827-ABC2-FA0E0C8FF813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1875136F-0822-4827-ABC2-FA0E0C8FF813}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1875136F-0822-4827-ABC2-FA0E0C8FF813}.Debug|Win32.Build.0 = Debug|Win32
+		{1875136F-0822-4827-ABC2-FA0E0C8FF813}.Release|Win32.ActiveCfg = Release|Win32
+		{1875136F-0822-4827-ABC2-FA0E0C8FF813}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

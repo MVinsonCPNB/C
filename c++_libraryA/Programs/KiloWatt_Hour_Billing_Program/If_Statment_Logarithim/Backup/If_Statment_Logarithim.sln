@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "If_Statment_Logarithim", "If_Statment_Logarithim\If_Statment_Logarithim.vcproj", "{CEBD4E8A-35AE-412E-BD59-DAE1CEDE4AF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBD4E8A-35AE-412E-BD59-DAE1CEDE4AF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CEBD4E8A-35AE-412E-BD59-DAE1CEDE4AF7}.Debug|Win32.Build.0 = Debug|Win32
+		{CEBD4E8A-35AE-412E-BD59-DAE1CEDE4AF7}.Release|Win32.ActiveCfg = Release|Win32
+		{CEBD4E8A-35AE-412E-BD59-DAE1CEDE4AF7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
