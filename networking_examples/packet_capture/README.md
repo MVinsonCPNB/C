@@ -1,5 +1,5 @@
-Packet Sniff
-============
+Packet Capture
+==============
 
 The packet sniff program was recoded for learning purposes and the example can be found at [Binary Tide](https://www.binarytides.com/packet-sniffer-code-c-linux/) 
 
