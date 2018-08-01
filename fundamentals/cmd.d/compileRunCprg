@@ -1,9 +1,0 @@
-# How to complie a C program (demo.c)
-
-cc demo.c -o demo
-
-#how to run the compiled program named demo
-
-./demo
-
-
