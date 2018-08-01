@@ -1,8 +1,4 @@
 C/C++ Example Repository
 ========================
 
-This repositiory is a collection of various c/c++ programs written on a linux/Windows systems. Most of the code is simply recoded from web tutorials or books. Look in the README files to find more about where the examples were found.
-
-The repository is used as a means to switch between work and home computer while have access to 
-my personal code examples for reference purposes. 
-
+This repositiory is a collection of various C/C++ programs written on a Linux/Windows systems. Most of the code was coded during academic studies or recoded from web tutorials or books for practice purposes. Look in the README files to find more about where the examples were found.
